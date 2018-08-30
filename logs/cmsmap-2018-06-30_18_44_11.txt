@@ -1,0 +1,4 @@
+/home/sarthak/Downloads/spydrs/tools/CMSmap/cmsmap.py -t https://www.freelancer.pk -o logs/cmsmap-2018-06-30_18:44:11.txt
+[-] Date & Time: 01/07/2018 00:14:15
+[-] Target: https://www.freelancer.pk
+[ERROR] Website Unreachable: https://www.freelancer.pk
