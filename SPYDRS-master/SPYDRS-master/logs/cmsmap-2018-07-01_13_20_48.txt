@@ -1,0 +1,9 @@
+/home/sarthak/Downloads/spydrs/tools/CMSmap/cmsmap.py -t https://www.freelancer.pk -o logs/cmsmap-2018-07-01_13:20:48.txt
+[-] Date & Time: 01/07/2018 18:51:00
+[-] Target: https://www.freelancer.pk
+[I] Server: nginx
+[L] X-Frame-Options: Not Enforced
+[I] X-Content-Security-Policy: Not Enforced
+[I] X-Content-Type-Options: Not Enforced
+[L] Robots.txt Found: https://www.freelancer.pk/robots.txt
+[I] CMS Detection: Drupal
